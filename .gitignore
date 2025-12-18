@@ -3,3 +3,6 @@
 dist/
 build/
 powerset.egg-info
+__pycache__/
+*.__pycache__.DS_Store
+logs/
